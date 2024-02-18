@@ -1,0 +1,54 @@
+.navbar
+{
+    background-color: darkorange;
+}
+.navbar-nav .nav-item .nav-link
+{
+    font-size: 18px;
+    font-weight: bolder;
+    padding-right: 20px;
+    color:white;
+}
+.container
+{
+    text-align: justify;
+    margin-top: 50px;
+}
+.div2 p
+{
+    text-align: center;
+}
+.growth h3
+{
+    color: darkred;
+    font-style: italic;
+    font-weight: bolder;
+}
+.growth .col p
+{
+    font-size: 22px;
+    
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.card-title
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer
+{
+    color: white;
+    background:darkorange;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 50px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10px;
+    
+
+}

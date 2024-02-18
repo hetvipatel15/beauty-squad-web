@@ -1,0 +1,68 @@
+body
+{
+    background-color: rgba(240, 241, 252, 0.4);
+}
+
+.navbar-nav .nav-item .nav-link
+{
+    font-size: 18px;
+    font-weight: bolder;
+    padding-right: 20px;
+    color:black;
+}
+
+.container
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.image
+{
+    height: 400px;
+    width:100%;
+}
+
+
+.deck1
+{
+    margin-left:100px;
+    margin-right:100px;
+    padding:20px 20px 20px 20px;
+
+}
+
+.card-img-top
+{
+    height: 200px;
+    width:auto;
+    padding: 10px 10px 10px 10px ;
+}
+
+.card-title
+{
+    font-size: 20px;
+    text-align: center;
+}
+.card-body .click .btn
+{
+    margin-top: 20px;
+}
+
+.footer
+{
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: antiquewhite;
+    background:linear-gradient(#232526,#414345);
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+
+}
+
+.card
+{
+    max-height: 600px;
+}
